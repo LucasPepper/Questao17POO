@@ -1,0 +1,18 @@
+Uma empresa possui 5 tipos de funcionários: diretor, vendedor, operário, administrativo e de
+manutenção.
+
+Essa empresa possui um cadastro de funcionários com os seguintes dados:
+nome, cpf, sexo, idade e salário.
+
+Mensalmente os funcionários podem receber uma
+bonificação extra, entretanto as regras variam para cada tipo de funcionário.
+
+Os diretores recebem bonificação extra de 10% dos lucros se a empresa bater a meta de lucro mensal.
+
+Os vendedores recebem bonificação extra que corresponde a 1% das vendas realizadas por eles.
+
+Os operários recebem 5% do valor do salário como bonificação caso não faltem nenhum dia de trabalho.
+
+Os funcionários administrativos e de manutenção não recebem bonificação extra.
+
+Faça um diagrama de classes para este sistema.
